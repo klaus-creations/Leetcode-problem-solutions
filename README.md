@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0670-maximum-swap) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0048-rotate-image) |
 ## Binary Search
