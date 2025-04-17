@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0058-length-of-last-word) |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/klaus-creations/Leetcode-problem-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
